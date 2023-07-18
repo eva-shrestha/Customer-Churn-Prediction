@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/276479216517365656/b0821d637dba4539b5cacaf77cc34bb2/artifacts
+end_time: 1689242825941
+entry_point_name: ''
+experiment_id: '276479216517365656'
+lifecycle_stage: active
+run_id: b0821d637dba4539b5cacaf77cc34bb2
+run_name: Logistic Regression for imbalanced data 2023-07-13 15:52:05
+run_uuid: b0821d637dba4539b5cacaf77cc34bb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689242825394
+status: 3
+tags: []
+user_id: Dell

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/aca376fc988c48caae8a3823cf04ff89/artifacts
+deleted_time: 1689224863127
+end_time: 1689223196096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: aca376fc988c48caae8a3823cf04ff89
+run_name: kindly-wasp-939
+run_uuid: aca376fc988c48caae8a3823cf04ff89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689223188302
+status: 3
+tags: []
+user_id: Dell

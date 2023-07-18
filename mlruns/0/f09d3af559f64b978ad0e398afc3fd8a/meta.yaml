@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f09d3af559f64b978ad0e398afc3fd8a/artifacts
+deleted_time: 1689224863124
+end_time: 1689223511250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f09d3af559f64b978ad0e398afc3fd8a
+run_name: persistent-foal-586
+run_uuid: f09d3af559f64b978ad0e398afc3fd8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689223499509
+status: 3
+tags: []
+user_id: Dell

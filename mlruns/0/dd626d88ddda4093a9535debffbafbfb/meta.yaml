@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/dd626d88ddda4093a9535debffbafbfb/artifacts
+deleted_time: 1689224858607
+end_time: 1689223951113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dd626d88ddda4093a9535debffbafbfb
+run_name: adventurous-hound-92
+run_uuid: dd626d88ddda4093a9535debffbafbfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689223941330
+status: 3
+tags: []
+user_id: Dell
