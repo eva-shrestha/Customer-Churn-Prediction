@@ -27,7 +27,7 @@ fastAPI <br><br>
 3. Navigate to the project directory: cd <project_directory> <br><br>
 4. Build the Docker image: docker build -t <image_name> . <br><br>
 5. Run the Docker container with the created image and create port mapping with MLflow: <br>
-   docker run -d -p “5000:5000” —name <containername> <imagename> <br><br>
+   docker run -d -p “5000:5000" --name <container_name> <image_name> <br><br>
 
 ### To install fastAPI:
 
