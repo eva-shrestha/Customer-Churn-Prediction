@@ -9,7 +9,9 @@ from imblearn.over_sampling import RandomOverSampler
 import mlflow
 from datetime import datetime
 
-mlflow.set_tracking_uri('http://127.0.0.1:5000/')
+#mlflow.set_tracking_uri('http://0.0.0.0:5000/')
+#mlflow.set_tracking_uri('http://localhost:5000/')
+
 mlflow.set_experiment('Customer Churn Analysis')
 
 
